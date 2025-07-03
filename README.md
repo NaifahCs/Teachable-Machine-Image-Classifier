@@ -30,5 +30,5 @@ used in a Colab Python script to load the model and predict the class of an inpu
 # 4. Run the Prediction Code
 
 # 5. Output
-The model analyzed Test2.jpg and predicted 
+The model analyzed `Test2.jpg` and predicted 
              ![Output](Output.jpg)
